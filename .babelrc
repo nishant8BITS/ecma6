@@ -1,0 +1,9 @@
+{ 
+  "scripts": {
+      "transpile-es2015": "babel src -d lib"
+  },
+  "devDependencies": {
+      "babel-cli": "^6.18.0",
+      "babel-preset-latest": "^6.16.0"
+  }
+}
